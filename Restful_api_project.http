@@ -1,0 +1,10 @@
+@Restful_api_project_HostAddress = https://localhost:7245
+
+GET {{Restful_api_project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{Restful_api_project_HostAddress}}/api/pizza
+
+###
